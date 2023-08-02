@@ -1,1 +1,1 @@
-# newhope
+We are announcing the withdrawal of our open-source model, which was released yesterday. The reasons are as follows: A portion of our data comes from a Huggingface dataset of about 80k samples. After a thorough examination, we identified that a portion of test samples were unexpectedly leaked in the dataset.
